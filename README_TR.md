@@ -2,9 +2,16 @@
 
 [English](README.md) | **Türkçe**
 
-<img src="media/robot_overview.png" alt="Robot genel görünümü" width="100%">
 
-[▶ Tanıtım videosu](media/hexapod_demo_web.mp4)
+
+
+
+https://github.com/user-attachments/assets/1d644555-ccdd-4b24-aae5-b4da9a2ae884
+
+
+
+
+<img src="media/robot_overview.png" alt="Robot genel görünümü" width="100%">
 
 Bu projede altı bacaklı hibrit tekerlekli bir robotun MuJoCo MJX ortamında PPO algoritması kullanılarak eğitilmesi amaçlanmıştır.
 

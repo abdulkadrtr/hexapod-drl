@@ -2,9 +2,15 @@
 
 **English** | [Türkçe](README_TR.md)
 
-<img src="media/robot_overview.png" alt="Robot overview" width="100%">
 
-[▶ Demo video](media/hexapod_demo_web.mp4)
+
+
+https://github.com/user-attachments/assets/1d644555-ccdd-4b24-aae5-b4da9a2ae884
+
+
+
+
+<img src="media/robot_overview.png" alt="Robot overview" width="100%">
 
 This project trains a six-legged hybrid wheel-legged robot with the PPO algorithm in MuJoCo MJX.
 
